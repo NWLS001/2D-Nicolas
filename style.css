@@ -1,0 +1,28 @@
+html{
+    background-color: bisque;
+}
+
+body {
+    width: 600px;
+    margin: 0 auto;
+    background-color: #fdfcfb;
+    padding: 0 650px 20px 20px;
+  }
+  .inicio{
+    width: 600px;
+    margin: 0 auto;
+    background-color: #fdfcfb;
+    text-align: center;
+  }
+  .meio{
+    width: 600px;
+    margin: 0 auto;
+    background-color: #fdfcfb;
+    text-align: center;
+  }
+  .fim{
+    width: 600px;
+    margin: 0 auto;
+    background-color: #fdfcfb;
+    text-align: center;
+  }
